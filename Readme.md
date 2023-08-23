@@ -28,6 +28,8 @@ In this project, we try to implement an NLP Twitter sentiment analysis model tha
 
 # Dataset
 
+[Link](https://github.com/onkar-kota/Twitter-Sentiment-Analysis/tree/master/database)
+
 - **tweet_id**: Unique id of the tweet
 - **airline_sentiment**:  the polarity of the tweet (positive or negative)
 - **airline_sentiment_gold**: the polarity of the tweet (positive or negative)
