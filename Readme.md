@@ -26,6 +26,20 @@ In this project, we try to implement an NLP Twitter sentiment analysis model tha
 
 ***
 
+# Dataset
+
+- **tweet_id**: Unique id of the tweet
+- **airline_sentiment**:  the polarity of the tweet (positive or negative)
+- **airline_sentiment_gold**: the polarity of the tweet (positive or negative)
+- **name**: It refers to the name of the user that tweeted
+- **retweet_count**: count of tweet which has been retweeted
+- **tweet_created**: the date of the tweet
+- **tweet_location**: the location of the tweet
+- **user_timezone**: timezone of the user
+- **text**: It refers to the text of the tweet
+
+***
+
 # Twitter Sentiment Analysis: Project Pipeline
 
 The various steps involved in the Machine Learning Pipeline are:
